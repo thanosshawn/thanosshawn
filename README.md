@@ -10,9 +10,39 @@
   <img src="https://img.shields.io/badge/Audio+AI-%F0%9F%8E%B6-purple?style=for-the-badge" />
 </p>
 
+
+
+Hi, I'm Shawn! 👋
+
+I'm a backend developer focused on **building systems**—from scalable web backends to intelligent agents and custom protocol servers.
+
+### Specialties
+
+- **Next.js** backend engineering
+- **PyTorch** agent development (AI/ML)
+- **MCP (Model Context Protocol)** server and protocol implementation
+- **Systems architecture and automation**
+- ...and more!
+
 ---
 
-### 🧠 About Me
+## 💼 Commission Work
+
+I'm available for commission-based projects and collaborations.  
+If you need robust backend solutions, AI/ML agents, or protocol/server implementations, let's connect!
+
+- **Contact:** [thanosshawn@gmail.com] or [GitHub DM](https://github.com/thanosshawn)
+- **Skills:** Next.js, Node.js, PyTorch, MCP, systems design, Minecraft servers, APIs, automation
+- **Portfolio:** See my repositories and pinned projects for examples of my work.
+
+Let's build something awesome together!
+
+---
+*For more info, see my pinned repositories or contact me directly.*
+
+
+
+
 
 > 🎧 Full-stack developer turned deep learning dreamer, building the next wave of intelligent sound & vision tech.
 
@@ -21,33 +51,8 @@
 - 🎹 Crafting melodies with **AI + emotion**
 - ⚡ Love coding with **React**, **Node.js**, **Python**, **PyTorch**
 
----
 
-### 🚀 Projects I'm Building
 
-#### 🎶 SonicMind
-> AI-generated soundscapes, music composition, voice transformation & more.
-
-#### 🤖 VisionaryAI
-> Smart perception systems that understand people and their world.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanosshawn&show_icons=true&theme=tokyonight&hide_title=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanosshawn&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanosshawn&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### ⚙️ Tech Stack
-
-```yaml
 Languages:
   - Python
   - JavaScript / TypeScript
@@ -55,6 +60,7 @@ Languages:
 Frontend:
   - React
   - HTML5 + CSS3
+  -tailwind
 
 Backend:
   - Node.js / Express
@@ -62,8 +68,8 @@ Backend:
   - Firebase
 
 Machine Learning:
-  - PyTorch, TensorFlow, HuggingFace
-  - Librosa, AudioCraft, Magenta
+  - PyTorch, HuggingFace
+ 
 
 Tools:
   - VSCode, Docker, Git, Netlify, Postman
