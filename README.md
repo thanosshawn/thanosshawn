@@ -32,7 +32,7 @@ I'm available for commission-based projects and collaborations.
 If you need robust backend solutions, AI/ML agents, or protocol/server implementations, let's connect!
 
 - **Contact:** [thanosshawn@gmail.com] or [GitHub DM](https://github.com/thanosshawn)
-- **Skills:** Next.js, Node.js, PyTorch, MCP, systems design, Minecraft servers, APIs, automation
+- **Skills:** Next.js, Node.js, PyTorch, MCP, systems design, APIs, automation
 - **Portfolio:** See my repositories and pinned projects for examples of my work.
 
 Let's build something awesome together!
